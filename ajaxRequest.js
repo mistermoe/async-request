@@ -20,7 +20,7 @@
     }
 
   @example:
-    asyncRequest({
+    ajaxRequest({
       method: "GET",
       url: "a url",
       sendCookies: true
@@ -31,7 +31,7 @@
   @note: the response argument will always be populated regardless of if error is null.
 */
 
-var asyncRequest = function(params, callback) {
+var ajaxRequest = function(params, callback) {
   var req = new XMLHttpRequest();
 
   if (!params.method)
@@ -90,4 +90,4 @@ var asyncRequest = function(params, callback) {
   return req;
 }
 
-export default asyncRequest;
+export default ajaxRequest;

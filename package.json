@@ -1,11 +1,11 @@
 {
-  "name": "async-request",
+  "name": "simple-ajax-request",
   "version": "1.0.0",
   "description": " a library that simplifies making ajax requests from the frontend without having to use jquery",
-  "main": "async_request.js",
+  "main": "ajaxRequest.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mistermoe/async-request"
+    "url": "https://github.com/mistermoe/simple-ajax-request"
   },
   "keywords": [
     "http",
@@ -17,7 +17,7 @@
   "author": "Moe Jangda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mistermoe/async-request/issues"
+    "url": "https://github.com/mistermoe/simple-ajax-request/issues"
   },
-  "homepage": "https://github.com/mistermoe/async-request"
+  "homepage": "https://github.com/mistermoe/simple-ajax-request"
 }

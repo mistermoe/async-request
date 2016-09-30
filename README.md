@@ -1,10 +1,10 @@
-## async-request
+## simple-ajax-request
 
 **Description**: a library that simplifies making ajax requests from the frontend without having to use jquery
 
 **Usage**:
 ```
-npm install async-request
+npm install simple-ajax-request
 ```
 
 **Example**:
@@ -32,7 +32,7 @@ npm install async-request
     }
 */
 
-asyncRequest({
+ajaxRequest({
   method: "GET",
   url: "a url",
   sendCookies: true
