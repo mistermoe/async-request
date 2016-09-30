@@ -1,0 +1,23 @@
+{
+  "name": "async-request",
+  "version": "1.0.0",
+  "description": " a library that simplifies making ajax requests from the frontend without having to use jquery",
+  "main": "async_request.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistermoe/async-request"
+  },
+  "keywords": [
+    "http",
+    "ajax",
+    "http request",
+    "ajax request",
+    "frontend"
+  ],
+  "author": "Moe Jangda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mistermoe/async-request/issues"
+  },
+  "homepage": "https://github.com/mistermoe/async-request"
+}
