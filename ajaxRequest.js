@@ -90,4 +90,4 @@ var ajaxRequest = function(params, callback) {
   return req;
 }
 
-export default ajaxRequest;
+module.exports = ajaxRequest;
