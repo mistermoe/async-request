@@ -1,6 +1,6 @@
 {
   "name": "simple-ajax-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " a library that simplifies making ajax requests from the frontend without having to use jquery",
   "main": "ajaxRequest.js",
   "repository": {
